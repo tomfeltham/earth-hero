@@ -1,2 +1,2 @@
 # earth-hero
-A draft setup for Earth Hero
+A basic issue tracking system for Earth Hero.
